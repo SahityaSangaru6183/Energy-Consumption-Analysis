@@ -71,7 +71,7 @@ This project answers critical global questions such as:
 
 ## 🚀 How to Run
 1. Clone/download the repo and open MySQL Workbench  
-2. Run the script [`Energy Consumption Project(SQL).sql`](./Energy%20Consumption%20Project(SQL).sql)  
+2. Run the script [`Energy Consumption Project(SQL).sql`](https://github.com/SahityaSangaru6183/Energy-Consumption-Analysis/blob/main/Energy%20Consumption%20Project(SQL).sql)  
 3. Import CSV datasets into tables (`Table Data Import Wizard`)  
 4. Execute queries to explore trends and insights  
 
